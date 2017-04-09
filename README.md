@@ -1,2 +1,2 @@
 # cloudMysite
-nginx + python3 + django
+nginx + python3 + django1.11
